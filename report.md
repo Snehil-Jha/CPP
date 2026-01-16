@@ -76,12 +76,11 @@ In this, we only consider the dot to hold upto two electron, where there exists 
 When we apply the above procedures to this system, we obtain the following results.
 
 ![Current versus Drain Voltage](./images/dutta_current.png)  
-_Figure 2: The current versus drain voltage reveals a mostly increasing behaviour with a flat regions in between due to saturation of current due to the available transistions._
-<br><br><br><br>
+_Figure 2: The current versus drain voltage reveals a mostly increasing behaviour with a flat regions in between due to saturation of current due to the available transistions._  
+
 ![Current versus Drain and Gate Voltage](./images/dutta_current_2d.png)  
 ![Differential Conductance versus Drain and Gate Voltage](./images/dutta_diff_current.png)  
 _Figure 3&4: The current and differential conductance for the quantum dot. When the drain voltage exceeds a certain threshold, there is always current flowing. For low drain voltages, the current is blocked at certain gate voltages due to misalignment of the drain-source voltage gap and available energy states in the dot._
-<br><br><br><br>
 
 ## Paper 1 Simulation
 
@@ -91,13 +90,11 @@ As such, we may simulate the effects of having multiple states present within th
 However, for the purpose of plotting the graphs, an upper limit of 3 states has been taken.
 
 ![Current versus gate voltage](./images/paper1_current.png)  
-_Figure 5: Current versus gate voltage showing peaks and zero-current regions depending on the alignment of the dot energy states with the source-drain voltage gap._
-<br><br><br><br>
+_Figure 5: Current versus gate voltage showing peaks and zero-current regions depending on the alignment of the dot energy states with the source-drain voltage gap._  
 
 ![Current versus Drain and Gate Voltage](./images/paper1_current_2d.png)  
 ![Differential Conductance versus Drain and Gate Voltage](./images/paper1_diff_current.png)  
-_Figure 6&7: Very similar to the figures obtained in the Dutta simulation, however with further range due to increased number of maximum electrons_
-<br><br><br><br>
+_Figure 6&7: Very similar to the figures obtained in the Dutta simulation, however with further range due to increased number of maximum electrons_  
 
 ![Effect of temperature on the peak](./images/paper1_temp.png)  
 _Figure 8: Here, the effect of temperature on the broadening of the peaks can be seen, where electrons can cross the tunnel barrier due to their thermal energies._
